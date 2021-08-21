@@ -1427,6 +1427,7 @@ footer {
   font-style: italic;
   font-weight: 900;
   font-family: cursive;
+  text-decoration: none;
 }
 
 .card:hover .card-desc,
